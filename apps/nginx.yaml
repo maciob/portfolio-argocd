@@ -9,7 +9,7 @@ spec:
     namespace: default
     server: 'https://kubernetes.default.svc'
   source:
-    path: ./infra-apps/nginx-default
+    path: ./infra-apps/nginx
     repoURL: 'https://github.com/maciob/portfolio-helm.git'
     targetRevision: master
   project: default
