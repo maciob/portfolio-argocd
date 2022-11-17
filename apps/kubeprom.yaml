@@ -19,6 +19,5 @@ spec:
     automated:
       prune: true
       selfHeal: true
-      dryRun: true
     syncOptions:
       - Replace=true
