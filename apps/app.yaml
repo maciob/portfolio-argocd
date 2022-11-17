@@ -11,7 +11,7 @@ spec:
     namespace: default
     server: 'https://kubernetes.default.svc'
   source:
-    path: ./threetier
+    path: ./nginx-ingress
     repoURL: 'https://github.com/maciob/portfolio-helm.git'
     targetRevision: master
   project: default
